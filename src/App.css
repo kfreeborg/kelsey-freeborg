@@ -4,14 +4,6 @@
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
 }
 
-.navbar {
-  background-color: #cfdbd5;
-}
-
-.navbar-expand-lg .navbar-collapse {
-  background-color: #cfdbd5;
-}
-
-.navbar-nav {
-  background-color: #cfdbd5;
+.nav-link {
+  cursor: pointer;
 }
