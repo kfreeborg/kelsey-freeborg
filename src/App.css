@@ -1,7 +1,11 @@
 * {
-  background-color: #333533;
-  color: #f5cb5c;
+  color: #38e4ae;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  background-image: linear-gradient(#121113, #020122);
+
+  margin: 0;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 
 .nav-link {

@@ -6,7 +6,6 @@ function Header(props) {
 
   return (
     <div>
-      <div>{/* <img src="" /> */}</div>
       <div>
         <Navigation
           currentPage={currentPage}
