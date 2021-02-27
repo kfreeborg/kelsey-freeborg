@@ -1,8 +1,8 @@
 import React from "react";
 
-function Education(props) {
+function Education() {
   return (
-    <div>
+    <div id="education">
       <h1>Education</h1>
     </div>
   );

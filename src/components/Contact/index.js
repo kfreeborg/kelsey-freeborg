@@ -1,8 +1,8 @@
 import React from "react";
 
-function Contact(props) {
+function Contact() {
   return (
-    <div>
+    <div id="contact">
       <h1>Contact</h1>
     </div>
   );

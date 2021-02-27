@@ -1,12 +1,11 @@
 import React, { useState } from "react";
 import Header from "./components/Header";
-import Navigation from "./components/Navigation";
 import Home from "./components/Home";
 import Education from "./components/Education";
 import Project from "./components/Project";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
-import logo from "./logo.svg";
+// import logo from "./logo.svg";
 import "./App.css";
 
 function App() {

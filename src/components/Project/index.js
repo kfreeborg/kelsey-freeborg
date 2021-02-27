@@ -1,8 +1,8 @@
 import React from "react";
 
-function Project(props) {
+function Project() {
   return (
-    <div>
+    <div id="project">
       <h1>Project</h1>
     </div>
   );
