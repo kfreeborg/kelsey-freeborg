@@ -28,19 +28,13 @@ function App() {
     }
   };
   return (
-    <div className="App">
-      <header className="App-header">
-        <Header />
+    <div>
+      <header>
+        <Header currentPage={currentPage} handlePageChange={handlePageChange} />
       </header>
-      <main>
-        {/* Pass the state value and the setter as props to NavTabs */}
-        <Navigation
-          currentPage={currentPage}
-          handlePageChange={handlePageChange}
-        />
-        {/* Call the renderPage function passing in the currentPage */}
-        <div>{renderPage(currentPage)}</div>
-      </main>
+      <div>
+        <main>{renderPage()}</main>
+      </div>
       <footer>
         <Footer />
       </footer>
