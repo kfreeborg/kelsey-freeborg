@@ -2,7 +2,7 @@ import React from "react";
 import Navigation from "../Navigation";
 
 function Header(props) {
-  const [currentPage, handlePageChange] = props;
+  const { currentPage, handlePageChange } = props;
 
   return (
     <div>
