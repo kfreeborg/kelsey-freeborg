@@ -20,3 +20,38 @@
 .contact-icons {
   margin: 0 25px 0 25px;
 }
+
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(5, 120px);
+  grid-gap: 10px;
+  flex: 2 60%;
+  margin: 3.5%;
+  line-height: 1.5;
+}
+
+.grid-item img:hover {
+  opacity: 0.5;
+}
+
+.gallery__img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border: 3px solid #38e4ae;
+}
+
+.grid-item {
+  position: relative;
+}
+
+.dep-links {
+  display: flex;
+  justify-content: center;
+  bottom: 5px;
+  font-size: large;
+  overflow-wrap: break-word;
+  width: 130px;
+  margin: 0 20px 0 20px;
+}

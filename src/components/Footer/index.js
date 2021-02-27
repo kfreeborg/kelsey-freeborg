@@ -1,7 +1,7 @@
 import React from "react";
 import { FaGithub, FaInstagram, FaLinkedin } from "react-icons/fa";
 
-function Footer(props) {
+function Footer() {
   return (
     <footer class="footer">
       <h4>
