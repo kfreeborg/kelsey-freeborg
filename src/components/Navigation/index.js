@@ -1,7 +1,7 @@
 import React from "react";
 import { BrowserRouter, Route, Link } from "react-router-dom";
 import Project from ".././Project";
-import Home from "../../App";
+// import Home from "../../App";
 
 function Navigation(props) {
   return (
