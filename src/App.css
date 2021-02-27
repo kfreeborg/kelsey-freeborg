@@ -11,3 +11,12 @@
 .nav-link {
   cursor: pointer;
 }
+
+.footer {
+  display: flex;
+  justify-content: center;
+}
+
+.contact-icons {
+  margin: 0 25px 0 25px;
+}
