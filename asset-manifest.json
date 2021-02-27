@@ -1,26 +1,25 @@
 {
   "files": {
-    "main.css": "/kelsey-freeborg/static/css/main.e0726852.chunk.css",
-    "main.js": "/kelsey-freeborg/static/js/main.af8520d3.chunk.js",
-    "main.js.map": "/kelsey-freeborg/static/js/main.af8520d3.chunk.js.map",
-    "runtime-main.js": "/kelsey-freeborg/static/js/runtime-main.b28eb3ea.js",
-    "runtime-main.js.map": "/kelsey-freeborg/static/js/runtime-main.b28eb3ea.js.map",
+    "main.css": "/kelsey-freeborg/static/css/main.a9fddd4a.chunk.css",
+    "main.js": "/kelsey-freeborg/static/js/main.1fdb3f25.chunk.js",
+    "main.js.map": "/kelsey-freeborg/static/js/main.1fdb3f25.chunk.js.map",
+    "runtime-main.js": "/kelsey-freeborg/static/js/runtime-main.063325eb.js",
+    "runtime-main.js.map": "/kelsey-freeborg/static/js/runtime-main.063325eb.js.map",
     "static/css/2.150d169a.chunk.css": "/kelsey-freeborg/static/css/2.150d169a.chunk.css",
-    "static/js/2.0493c2e2.chunk.js": "/kelsey-freeborg/static/js/2.0493c2e2.chunk.js",
-    "static/js/2.0493c2e2.chunk.js.map": "/kelsey-freeborg/static/js/2.0493c2e2.chunk.js.map",
-    "static/js/3.d7f3af18.chunk.js": "/kelsey-freeborg/static/js/3.d7f3af18.chunk.js",
-    "static/js/3.d7f3af18.chunk.js.map": "/kelsey-freeborg/static/js/3.d7f3af18.chunk.js.map",
+    "static/js/2.df9e5487.chunk.js": "/kelsey-freeborg/static/js/2.df9e5487.chunk.js",
+    "static/js/2.df9e5487.chunk.js.map": "/kelsey-freeborg/static/js/2.df9e5487.chunk.js.map",
+    "static/js/3.89926d24.chunk.js": "/kelsey-freeborg/static/js/3.89926d24.chunk.js",
+    "static/js/3.89926d24.chunk.js.map": "/kelsey-freeborg/static/js/3.89926d24.chunk.js.map",
     "index.html": "/kelsey-freeborg/index.html",
     "static/css/2.150d169a.chunk.css.map": "/kelsey-freeborg/static/css/2.150d169a.chunk.css.map",
-    "static/css/main.e0726852.chunk.css.map": "/kelsey-freeborg/static/css/main.e0726852.chunk.css.map",
-    "static/js/2.0493c2e2.chunk.js.LICENSE.txt": "/kelsey-freeborg/static/js/2.0493c2e2.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/kelsey-freeborg/static/media/logo.6ce24c58.svg"
+    "static/css/main.a9fddd4a.chunk.css.map": "/kelsey-freeborg/static/css/main.a9fddd4a.chunk.css.map",
+    "static/js/2.df9e5487.chunk.js.LICENSE.txt": "/kelsey-freeborg/static/js/2.df9e5487.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b28eb3ea.js",
+    "static/js/runtime-main.063325eb.js",
     "static/css/2.150d169a.chunk.css",
-    "static/js/2.0493c2e2.chunk.js",
-    "static/css/main.e0726852.chunk.css",
-    "static/js/main.af8520d3.chunk.js"
+    "static/js/2.df9e5487.chunk.js",
+    "static/css/main.a9fddd4a.chunk.css",
+    "static/js/main.1fdb3f25.chunk.js"
   ]
 }
