@@ -9,6 +9,12 @@ function App() {
       <header className="App-header">
         <Navigation />
       </header>
+      <main>
+        <h1>ABOUT ME</h1>
+      </main>
+      <footer>
+        <h4>Instagram | LinkedIn | GitHub</h4>
+      </footer>
     </div>
   );
 }
