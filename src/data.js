@@ -1,17 +1,17 @@
-import PassGen from "./assets/images/PassGen.JPG";
-import TimQuiz from "./assets/images/TimQuiz.JPG";
-import WorkSched from "./assets/images/WorkSched.JPG";
-import WeathAPI from "./assets/images/WeathAPI.JPG";
-import Covid from "./assets/images/weeCovidk-7.JPG";
-import ReadMe from "./assets/images/ReadMe.JPG";
-import ProfGen from "./assets/images/ProfGen.JPG";
-import Notepad from "./assets/images/Notepad.JPG";
-import EmpTrack from "./assets/images/EmpTrack.JPG";
-import EComm from "./assets/images/EComm.JPG";
-import TechBlog from "./assets/images/TechBlog.JPG";
-import Scheduler from "./assets/images/Scheduler.JPG";
-import NoSQL from "./assets/images/NoSQL.JPG";
-import BudTrack from "./assets/images/BudTrack.JPG";
+import PassGen from "./assets/images/PassGen.jpg";
+import TimQuiz from "./assets/images/TimQuiz.jpg";
+import WorkSched from "./assets/images/WorkSched.jpg";
+import WeathAPI from "./assets/images/WeathAPI.jpg";
+import Covid from "./assets/images/week-7.JPG";
+import ReadMe from "./assets/images/ReadMe.jpg";
+import ProfGen from "./assets/images/ProfGen.jpg";
+import Notepad from "./assets/images/Notepad.jpg";
+import EmpTrack from "./assets/images/EmpTrack.jpg";
+import EComm from "./assets/images/EComm.jpg";
+import TechBlog from "./assets/images/TechBlog.jpg";
+import Scheduler from "./assets/images/Scheduler.jpg";
+import NoSQL from "./assets/images/NoSQL.jpg";
+import BudTrack from "./assets/images/BudTrack.jpg";
 
 /* eslint import/no-anonymous-default-export: [2, {"allowArray": true}] */
 export default [
@@ -26,91 +26,96 @@ export default [
     id: 2,
     name: "Timed Quiz",
     image: TimQuiz,
-    github: "",
-    deploy: "",
+    github: "https://github.com/kfreeborg/timed-quiz",
+    deploy: "https://kfreeborg.github.io/timed-quiz/",
   },
   {
     id: 3,
     name: "Workday Scheduler",
     image: WorkSched,
-    github: "",
-    deploy: "",
+    github: "https://github.com/kfreeborg/daily-planner",
+    deploy: "https://kfreeborg.github.io/daily-planner/",
   },
   {
     id: 4,
     name: "Weather APIs",
     image: WeathAPI,
-    github: "",
-    deploy: "",
+    github: "https://github.com/kfreeborg/weather",
+    deploy: "https://kfreeborg.github.io/weather/",
   },
   {
     id: 5,
     name: "Covid Peeper (Group)",
     image: Covid,
-    github: "",
-    deploy: "",
+    github: "https://github.com/kfreeborg/week-7-project",
+    deploy: "https://kfreeborg.github.io/week-7-project/",
   },
   {
     id: 6,
     name: "README.md Generator",
     image: ReadMe,
-    github: "",
-    deploy: "",
+    github: "https://github.com/kfreeborg/create-readme",
+    deploy:
+      "https://drive.google.com/file/d/1WXo0n57wRDLdf7l5yaH3D6P2XTcJRLvf/view?usp=sharing",
   },
   {
     id: 7,
     name: "Team Profile Generator",
     image: ProfGen,
-    github: "",
-    deploy: "",
+    github: "https://github.com/kfreeborg/team-profile-generator",
+    deploy:
+      "https://drive.google.com/file/d/1BywAs0inOdTymYhww-AL6YVyNRsr2Oi5/view?usp=sharing",
   },
   {
     id: 8,
     name: "Notepad",
     image: Notepad,
-    github: "",
-    deploy: "",
+    github: "https://github.com/kfreeborg/notepad",
+    deploy: "https://polar-atoll-86261.herokuapp.com/",
   },
   {
     id: 9,
     name: "Employee Tracker",
     image: EmpTrack,
-    github: "",
-    deploy: "",
+    github: "https://github.com/kfreeborg/hogwarts-employees",
+    deploy:
+      "https://drive.google.com/file/d/1Lf4k2JWnUaHtIgJzaNkvL8xOrmYi3Nrx/view?usp=sharing",
   },
   {
     id: 10,
     name: "E-Commerce Back End",
     image: EComm,
-    github: "",
-    deploy: "",
+    github: "https://github.com/kfreeborg/e-commerce-website",
+    deploy:
+      "https://drive.google.com/file/d/1bky63nqZhDUbGbVZUlrtmigcBJLTf6k1/view",
   },
   {
     id: 11,
     name: "Tech Blog",
     image: TechBlog,
-    github: "",
-    deploy: "",
+    github: "https://github.com/kfreeborg/blog-site",
+    deploy: "https://sheltered-eyrie-22427.herokuapp.com/",
   },
   {
     id: 12,
     name: "Scheduler (Group)",
     image: Scheduler,
-    github: "",
-    deploy: "",
+    github: "https://github.com/kfreeborg/Team-Project-Wk15",
+    deploy: "https://team-project-wk15.herokuapp.com/",
   },
   {
     id: 13,
     name: "NoSQL Challenge",
     image: NoSQL,
-    github: "",
-    deploy: "",
+    github: "https://github.com/kfreeborg/nosqlChallenge",
+    deploy:
+      "https://drive.google.com/file/d/17tG38ZXfXKrMVQwxahvKmr3sLaFTHHF2/view",
   },
   {
     id: 14,
     name: "Budget Tracker",
     image: BudTrack,
-    github: "",
-    deploy: "",
+    github: "https://github.com/kfreeborg/budget-tracker",
+    deploy: "https://warm-waters-37535.herokuapp.com/",
   },
 ];
