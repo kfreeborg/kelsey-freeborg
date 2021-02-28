@@ -7,7 +7,7 @@ function Card(props) {
     <div className={`grid-item gallery__item--${props.id}`}>
       <img src={props.image} alt={props.name} className="gallery__img" />
       <div className="desc">
-        <h4>{props.name}</h4>
+        <p>{props.name}</p>
       </div>
 
       <div className="dep-links">
