@@ -9,17 +9,17 @@ function Header(props) {
     <div>
       <div className="banner-home">
         <div className="container-fluid">
+          <div className="">
+            <Navigation
+              currentPage={currentPage}
+              handlePageChange={handlePageChange}
+            />
+          </div>
           <div className="row">
             <img src={Shark} />
             <div class="centered">
               <h1>Kelsey Freeborg</h1>
               <h5>Software Developer</h5>
-            </div>
-            <div className="top-right">
-              <Navigation
-                currentPage={currentPage}
-                handlePageChange={handlePageChange}
-              />
             </div>
           </div>
         </div>
