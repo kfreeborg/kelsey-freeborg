@@ -34,10 +34,10 @@
 }
 
 .banner-home img {
-  background-size: cover;
   width: 100%;
   background: rgba(34, 46, 80, 0.1);
   opacity: 0.1;
+  position: relative;
 }
 
 .top-right {

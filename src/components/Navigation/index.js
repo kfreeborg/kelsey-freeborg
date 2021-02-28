@@ -18,7 +18,7 @@ function Navigation(props) {
                 class="nav-link"
                 onClick={() => handlePageChange("Education")}
               >
-                Education
+                Resume
               </span>
             </li>
             <li class={currentPage === "Project"}>
