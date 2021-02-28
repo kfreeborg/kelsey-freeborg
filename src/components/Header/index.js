@@ -6,10 +6,12 @@ function Header(props) {
 
   return (
     <div>
-      <Navigation
-        currentPage={currentPage}
-        handlePageChange={handlePageChange}
-      />
+      <div>
+        <Navigation
+          currentPage={currentPage}
+          handlePageChange={handlePageChange}
+        />
+      </div>
     </div>
   );
 }
