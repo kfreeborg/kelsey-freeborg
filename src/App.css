@@ -1,7 +1,7 @@
 :root {
-  --base: #020122;
-  --font: #02c39a;
-  --accent-1: #38e4ae;
+  --base: #222e50;
+  --font: #ffd131;
+  --accent-1: #2cda9d;
 }
 
 * {
@@ -19,9 +19,15 @@
   cursor: pointer;
 }
 
+.nav {
+  display: flex;
+  justify-content: flex-end;
+}
+
 .footer {
   display: flex;
   justify-content: center;
+  margin: 100px 0 0 0;
 }
 
 .contact-icons {
@@ -68,4 +74,19 @@
   display: flex;
   justify-content: center;
   margin: 5px 0 0 0;
+}
+
+@media screen and (max-width: 768px) {
+  .grid-container {
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr;
+  }
+  .nav {
+    display: flex;
+    justify-content: center;
+  }
+  .nav-brand {
+    display: flex;
+    justify-content: center;
+  }
 }
