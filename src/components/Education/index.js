@@ -2,7 +2,7 @@ import React from "react";
 
 function Education() {
   return (
-    <div className="container" id="education">
+    <div className="container main" id="education">
       <div className="row">
         <div className="col">
           <h1>Resume</h1>

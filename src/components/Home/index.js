@@ -6,6 +6,7 @@ function Home() {
       <div className="row">
         <div className="col">
           <h1>Home</h1>
+          <div className="main"></div>
         </div>
       </div>
     </div>

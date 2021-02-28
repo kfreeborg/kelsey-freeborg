@@ -40,7 +40,7 @@ function Contact() {
   };
 
   return (
-    <div className="container">
+    <div className="container main">
       <div className="row">
         <div className="col">
           <section>
