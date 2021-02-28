@@ -1,9 +1,9 @@
 :root {
-  --base: #222e50;
-  --font: #ffd131;
-  --accent-1: #2cda9d;
-  --accent-2: #2a4849;
-  --accent-3: #426b69;
+  --base: #847996;
+  --font: #e7ecef;
+  --accent-1: #a3cef1;
+  --accent-2: #8b8c89;
+  --accent-3: #6096ba;
 }
 
 * {
@@ -21,7 +21,7 @@ body {
 }
 
 body {
-  background: url("./assets/images/header.png") center center no-repeat;
+  background: url("./assets/images/background.jpg") center center no-repeat;
   background-size: auto;
   position: relative;
   background-attachment: fixed;
@@ -35,7 +35,11 @@ body:before {
   top: 0;
   bottom: 0;
   transition: background 0.5s;
-  background: rgba(34, 46, 80, 0.9);
+  background: rgba(39, 76, 119, 0.9);
+}
+
+h1 {
+  color: var(--accent-1);
 }
 
 .nav-link {
@@ -47,17 +51,6 @@ body:before {
   justify-content: flex-end;
 }
 
-.centered h1 {
-  color: var(--accent-1);
-}
-.centered h5 {
-  color: var(--accent-1);
-}
-
-.main {
-  height: 100vh;
-}
-
 .footer {
   display: flex;
   justify-content: center;
@@ -67,6 +60,12 @@ body:before {
 
 .contact-icons {
   margin: 0 25px 0 25px;
+}
+
+.resume-cards {
+  border: solid var(--base);
+  margin: 15px;
+  padding: 15px;
 }
 
 .grid-container {
@@ -88,7 +87,7 @@ body:before {
   width: 100%;
   height: 100%;
   object-fit: cover;
-  border: 2px solid var(--accent-1);
+  border: 2px solid var(--accent-3);
 }
 
 .grid-item {

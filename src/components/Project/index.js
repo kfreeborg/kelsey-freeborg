@@ -8,11 +8,10 @@ const Project = () => {
       <div className="container">
         <div className="row">
           <div className="col">
+            <h1>Projects</h1>
             <div>
               <div className="card-body">
-                <div className="header">
-                  <h3>Projects</h3>
-                </div>
+                <div className="header"></div>
                 <div />
                 <div className="grid-container vertical-line">
                   {works.map((project) => (
