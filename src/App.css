@@ -2,6 +2,8 @@
   --base: #222e50;
   --font: #ffd131;
   --accent-1: #2cda9d;
+  --accent-2: #2a4849;
+  --accent-3: #426b69;
 }
 
 * {
@@ -22,6 +24,41 @@
 .nav {
   display: flex;
   justify-content: flex-end;
+}
+
+.banner-home {
+  min-height: 300px;
+  padding-bottom: 20px;
+  position: relative;
+  text-align: center;
+}
+
+.banner-home img {
+  background-size: cover;
+  width: 100%;
+  background: rgba(34, 46, 80, 0.1);
+  opacity: 0.1;
+}
+
+.top-right {
+  position: absolute;
+  top: 8px;
+  right: 16px;
+}
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  opacity: 0.5;
+}
+
+.centered h1 {
+  color: var(--accent-1);
+}
+.centered h5 {
+  color: var(--accent-1);
 }
 
 .footer {

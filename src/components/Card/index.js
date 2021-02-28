@@ -1,5 +1,4 @@
 import React from "react";
-import { Fade } from "react-bootstrap";
 import { FaGitSquare, FaDesktop } from "react-icons/fa";
 
 function Card(props) {

@@ -6,17 +6,13 @@ function Navigation(props) {
   return (
     <div>
       <nav class="navbar">
-        <h2 class={currentPage === "Home"}>
-          <span
-            class="nav-brand nav-link"
-            onClick={() => handlePageChange("Home")}
-          >
-            Kelsey Freeborg
-          </span>
-        </h2>
-
         <div>
           <ul class="nav">
+            <li class={currentPage === "Home"}>
+              <span class="nav-link" onClick={() => handlePageChange("Home")}>
+                About Me
+              </span>
+            </li>
             <li class={currentPage === "Education"}>
               <span
                 class="nav-link"
