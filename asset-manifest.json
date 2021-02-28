@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/kelsey-freeborg/static/css/main.8188bdc3.chunk.css",
-    "main.js": "/kelsey-freeborg/static/js/main.d9a8a3cd.chunk.js",
-    "main.js.map": "/kelsey-freeborg/static/js/main.d9a8a3cd.chunk.js.map",
-    "runtime-main.js": "/kelsey-freeborg/static/js/runtime-main.a2e4221e.js",
-    "runtime-main.js.map": "/kelsey-freeborg/static/js/runtime-main.a2e4221e.js.map",
+    "main.css": "/kelsey-freeborg/static/css/main.d62bda38.chunk.css",
+    "main.js": "/kelsey-freeborg/static/js/main.253f5d78.chunk.js",
+    "main.js.map": "/kelsey-freeborg/static/js/main.253f5d78.chunk.js.map",
+    "runtime-main.js": "/kelsey-freeborg/static/js/runtime-main.f6a02910.js",
+    "runtime-main.js.map": "/kelsey-freeborg/static/js/runtime-main.f6a02910.js.map",
     "static/css/2.150d169a.chunk.css": "/kelsey-freeborg/static/css/2.150d169a.chunk.css",
-    "static/js/2.7cd65ac7.chunk.js": "/kelsey-freeborg/static/js/2.7cd65ac7.chunk.js",
-    "static/js/2.7cd65ac7.chunk.js.map": "/kelsey-freeborg/static/js/2.7cd65ac7.chunk.js.map",
-    "static/js/3.c4e646e5.chunk.js": "/kelsey-freeborg/static/js/3.c4e646e5.chunk.js",
-    "static/js/3.c4e646e5.chunk.js.map": "/kelsey-freeborg/static/js/3.c4e646e5.chunk.js.map",
+    "static/js/2.c2315ef0.chunk.js": "/kelsey-freeborg/static/js/2.c2315ef0.chunk.js",
+    "static/js/2.c2315ef0.chunk.js.map": "/kelsey-freeborg/static/js/2.c2315ef0.chunk.js.map",
+    "static/js/3.472d519d.chunk.js": "/kelsey-freeborg/static/js/3.472d519d.chunk.js",
+    "static/js/3.472d519d.chunk.js.map": "/kelsey-freeborg/static/js/3.472d519d.chunk.js.map",
     "index.html": "/kelsey-freeborg/index.html",
     "static/css/2.150d169a.chunk.css.map": "/kelsey-freeborg/static/css/2.150d169a.chunk.css.map",
-    "static/css/main.8188bdc3.chunk.css.map": "/kelsey-freeborg/static/css/main.8188bdc3.chunk.css.map",
-    "static/js/2.7cd65ac7.chunk.js.LICENSE.txt": "/kelsey-freeborg/static/js/2.7cd65ac7.chunk.js.LICENSE.txt",
+    "static/css/main.d62bda38.chunk.css.map": "/kelsey-freeborg/static/css/main.d62bda38.chunk.css.map",
+    "static/js/2.c2315ef0.chunk.js.LICENSE.txt": "/kelsey-freeborg/static/js/2.c2315ef0.chunk.js.LICENSE.txt",
     "static/media/BudTrack.2fcfaaa0.jpg": "/kelsey-freeborg/static/media/BudTrack.2fcfaaa0.jpg",
     "static/media/EComm.7b9793fc.jpg": "/kelsey-freeborg/static/media/EComm.7b9793fc.jpg",
     "static/media/EmpTrack.ff8c25ba.jpg": "/kelsey-freeborg/static/media/EmpTrack.ff8c25ba.jpg",
@@ -27,14 +27,14 @@
     "static/media/TimQuiz.10ff73ef.jpg": "/kelsey-freeborg/static/media/TimQuiz.10ff73ef.jpg",
     "static/media/WeathAPI.06af89e0.jpg": "/kelsey-freeborg/static/media/WeathAPI.06af89e0.jpg",
     "static/media/WorkSched.e75a66ac.jpg": "/kelsey-freeborg/static/media/WorkSched.e75a66ac.jpg",
-    "static/media/header.29c45430.jpg": "/kelsey-freeborg/static/media/header.29c45430.jpg",
+    "static/media/App.css": "/kelsey-freeborg/static/media/header.78f4521b.png",
     "static/media/week-7.64fe7292.JPG": "/kelsey-freeborg/static/media/week-7.64fe7292.JPG"
   },
   "entrypoints": [
-    "static/js/runtime-main.a2e4221e.js",
+    "static/js/runtime-main.f6a02910.js",
     "static/css/2.150d169a.chunk.css",
-    "static/js/2.7cd65ac7.chunk.js",
-    "static/css/main.8188bdc3.chunk.css",
-    "static/js/main.d9a8a3cd.chunk.js"
+    "static/js/2.c2315ef0.chunk.js",
+    "static/css/main.d62bda38.chunk.css",
+    "static/js/main.253f5d78.chunk.js"
   ]
 }
