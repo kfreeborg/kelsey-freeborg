@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/kelsey-freeborg/static/css/main.ad6c7864.chunk.css",
-    "main.js": "/kelsey-freeborg/static/js/main.2819f14d.chunk.js",
-    "main.js.map": "/kelsey-freeborg/static/js/main.2819f14d.chunk.js.map",
-    "runtime-main.js": "/kelsey-freeborg/static/js/runtime-main.a1cfc2ad.js",
-    "runtime-main.js.map": "/kelsey-freeborg/static/js/runtime-main.a1cfc2ad.js.map",
+    "main.css": "/kelsey-freeborg/static/css/main.09e02875.chunk.css",
+    "main.js": "/kelsey-freeborg/static/js/main.d9a8a3cd.chunk.js",
+    "main.js.map": "/kelsey-freeborg/static/js/main.d9a8a3cd.chunk.js.map",
+    "runtime-main.js": "/kelsey-freeborg/static/js/runtime-main.a2e4221e.js",
+    "runtime-main.js.map": "/kelsey-freeborg/static/js/runtime-main.a2e4221e.js.map",
     "static/css/2.150d169a.chunk.css": "/kelsey-freeborg/static/css/2.150d169a.chunk.css",
     "static/js/2.7cd65ac7.chunk.js": "/kelsey-freeborg/static/js/2.7cd65ac7.chunk.js",
     "static/js/2.7cd65ac7.chunk.js.map": "/kelsey-freeborg/static/js/2.7cd65ac7.chunk.js.map",
-    "static/js/3.8a4d290a.chunk.js": "/kelsey-freeborg/static/js/3.8a4d290a.chunk.js",
-    "static/js/3.8a4d290a.chunk.js.map": "/kelsey-freeborg/static/js/3.8a4d290a.chunk.js.map",
+    "static/js/3.c4e646e5.chunk.js": "/kelsey-freeborg/static/js/3.c4e646e5.chunk.js",
+    "static/js/3.c4e646e5.chunk.js.map": "/kelsey-freeborg/static/js/3.c4e646e5.chunk.js.map",
     "index.html": "/kelsey-freeborg/index.html",
     "static/css/2.150d169a.chunk.css.map": "/kelsey-freeborg/static/css/2.150d169a.chunk.css.map",
-    "static/css/main.ad6c7864.chunk.css.map": "/kelsey-freeborg/static/css/main.ad6c7864.chunk.css.map",
+    "static/css/main.09e02875.chunk.css.map": "/kelsey-freeborg/static/css/main.09e02875.chunk.css.map",
     "static/js/2.7cd65ac7.chunk.js.LICENSE.txt": "/kelsey-freeborg/static/js/2.7cd65ac7.chunk.js.LICENSE.txt",
     "static/media/BudTrack.2fcfaaa0.jpg": "/kelsey-freeborg/static/media/BudTrack.2fcfaaa0.jpg",
     "static/media/EComm.7b9793fc.jpg": "/kelsey-freeborg/static/media/EComm.7b9793fc.jpg",
@@ -27,13 +27,14 @@
     "static/media/TimQuiz.10ff73ef.jpg": "/kelsey-freeborg/static/media/TimQuiz.10ff73ef.jpg",
     "static/media/WeathAPI.06af89e0.jpg": "/kelsey-freeborg/static/media/WeathAPI.06af89e0.jpg",
     "static/media/WorkSched.e75a66ac.jpg": "/kelsey-freeborg/static/media/WorkSched.e75a66ac.jpg",
+    "static/media/header.29c45430.jpg": "/kelsey-freeborg/static/media/header.29c45430.jpg",
     "static/media/week-7.64fe7292.JPG": "/kelsey-freeborg/static/media/week-7.64fe7292.JPG"
   },
   "entrypoints": [
-    "static/js/runtime-main.a1cfc2ad.js",
+    "static/js/runtime-main.a2e4221e.js",
     "static/css/2.150d169a.chunk.css",
     "static/js/2.7cd65ac7.chunk.js",
-    "static/css/main.ad6c7864.chunk.css",
-    "static/js/main.2819f14d.chunk.js"
+    "static/css/main.09e02875.chunk.css",
+    "static/js/main.d9a8a3cd.chunk.js"
   ]
 }
