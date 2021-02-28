@@ -2,8 +2,12 @@ import React from "react";
 
 function Home() {
   return (
-    <div id="home">
-      <h1>Home</h1>
+    <div className="container" id="home">
+      <div className="row">
+        <div className="col">
+          <h1>Home</h1>
+        </div>
+      </div>
     </div>
   );
 }

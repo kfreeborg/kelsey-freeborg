@@ -2,8 +2,12 @@ import React from "react";
 
 function Education() {
   return (
-    <div id="education">
-      <h1>Education</h1>
+    <div className="container" id="education">
+      <div className="row">
+        <div className="col">
+          <h1>Resume</h1>
+        </div>
+      </div>
     </div>
   );
 }

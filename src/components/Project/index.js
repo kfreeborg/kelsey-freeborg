@@ -8,13 +8,12 @@ const Project = () => {
       <div className="container">
         <div className="row">
           <div className="col">
-            <div className="">
+            <div>
               <div className="card-body">
                 <div className="header">
                   <h3>Projects</h3>
                 </div>
-                <div className="" />
-
+                <div />
                 <div className="grid-container vertical-line">
                   {works.map((project) => (
                     <Card
