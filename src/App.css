@@ -1,7 +1,7 @@
 :root {
-  --base: #1b1b1e;
-  --font: #58a4b0;
-  --accent-1: #a9bcd0;
+  --base: #020122;
+  --font: #02c39a;
+  --accent-1: #38e4ae;
 }
 
 * {
@@ -12,6 +12,7 @@
   margin: 0;
   background-repeat: no-repeat;
   background-attachment: fixed;
+  opacity: 0.99;
 }
 
 .nav-link {
