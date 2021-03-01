@@ -15,9 +15,15 @@
 
 html,
 body {
-  min-height: 100%;
   max-height: max-content;
-  margin: 0;
+}
+
+.text {
+  color: var(--accent-2);
+}
+
+h5 {
+  color: var(--accent-3);
 }
 
 body {
@@ -45,6 +51,11 @@ h1 {
 
 .nav-link {
   cursor: pointer;
+}
+
+.active {
+  border: solid;
+  color: var(--accent-3);
 }
 
 .navbar {
@@ -127,5 +138,12 @@ h1 {
   .nav-brand {
     display: flex;
     justify-content: center;
+  }
+  .main2 {
+    height: 100vh;
+  }
+  .reverse {
+    display: flex;
+    flex-direction: column-reverse;
   }
 }

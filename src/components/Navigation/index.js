@@ -16,32 +16,25 @@ function Navigation(props) {
         </h2>
         <div>
           <ul class="nav">
-            <li class={currentPage === "Home"}>
-              <span class="nav-link" onClick={() => handlePageChange("Home")}>
-                About Me
-              </span>
+            <li class={currentPage === "Home" ? "nav-link active" : "nav-link"}>
+              <span onClick={() => handlePageChange("Home")}>About Me</span>
             </li>
-            <li class={currentPage === "Education"}>
-              <span
-                class="nav-link"
-                onClick={() => handlePageChange("Education")}
-              >
-                Resume
-              </span>
+            <li
+              class={
+                currentPage === "Education" ? "nav-link active" : "nav-link"
+              }
+            >
+              <span onClick={() => handlePageChange("Education")}>Resume</span>
             </li>
-            <li class={currentPage === "Project"}>
-              <span
-                class="nav-link"
-                onClick={() => handlePageChange("Project")}
-              >
-                Projects
-              </span>
+            <li
+              class={currentPage === "Project" ? "nav-link active" : "nav-link"}
+            >
+              <span onClick={() => handlePageChange("Project")}>Projects</span>
             </li>
-            <li class={currentPage === "Contact"}>
-              <span
-                class="nav-link"
-                onClick={() => handlePageChange("Contact")}
-              >
+            <li
+              class={currentPage === "Contact" ? "nav-link active" : "nav-link"}
+            >
+              <span onClick={() => handlePageChange("Contact")}>
                 Contact Form
               </span>
             </li>

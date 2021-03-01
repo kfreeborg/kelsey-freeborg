@@ -27,7 +27,7 @@ function Education() {
                 </p>
                 <p class="card-text">
                   <a
-                    class="text-muted"
+                    class="text"
                     href="https://drive.google.com/file/d/1YHK0gyxKcRFuBGHzWWI43T2ER6K1sGoa/view?usp=sharing"
                     download="Resume"
                     target="_blank"
@@ -38,8 +38,8 @@ function Education() {
               </div>
             </div>
           </div>
-          <div class="row resume-cards g-0">
-            <div class="col-md-8">
+          <div class="row resume-cards g-0 reverse">
+            <div class="col-md-8 reverse">
               <div class="card-body">
                 <h5 class="card-title">Global Environmental Consulting</h5>
                 <p class="card-text">
@@ -51,7 +51,7 @@ function Education() {
                   </ul>
                 </p>
                 <p class="card-text">
-                  <a class="text-muted" href="https://www.1gec.com/">
+                  <a class="text" href="https://www.1gec.com/">
                     Website
                   </a>
                 </p>

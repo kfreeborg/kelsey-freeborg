@@ -28,7 +28,7 @@ function Home() {
               </div>
             </div>
           </div>
-          <div class="row resume-cards g-0">
+          <div class="row resume-cards g-0 reverse">
             <div class="col-md-8">
               <div class="card-body">
                 <p class="card-text">
