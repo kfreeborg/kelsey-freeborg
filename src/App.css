@@ -41,7 +41,7 @@ body:before {
   top: 0;
   bottom: 0;
   transition: background 0.5s;
-  background: rgba(39, 76, 119, 0.7);
+  background: rgba(39, 76, 119, 0.8);
 }
 
 h1 {
