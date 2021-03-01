@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import Header from "./components/Header";
 import Home from "./components/Home";
 import Education from "./components/Education";
@@ -10,6 +10,10 @@ import "./App.css";
 
 function App() {
   const [currentPage, handlePageChange] = useState("Home");
+
+  useEffect(() => {
+    document.title = `Kelsey's Portfolio`;
+  });
 
   // The renderPage method uses a switch statement to render the appropriate current page
   const renderPage = () => {
