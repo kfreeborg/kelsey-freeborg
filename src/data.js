@@ -12,6 +12,7 @@ import TechBlog from "./assets/images/TechBlog.jpg";
 import Scheduler from "./assets/images/Scheduler.jpg";
 import NoSQL from "./assets/images/NoSQL.jpg";
 import BudTrack from "./assets/images/BudTrack.jpg";
+import TacShop from "./assets/images/TacShop.jpg";
 
 /* eslint import/no-anonymous-default-export: [2, {"allowArray": true}] */
 export default [
@@ -117,5 +118,12 @@ export default [
     image: BudTrack,
     github: "https://github.com/kfreeborg/budget-tracker",
     deploy: "https://warm-waters-37535.herokuapp.com/",
+  },
+  {
+    id: 15,
+    name: "Taco Shop",
+    image: TacShop,
+    github: "https://github.com/kfreeborg/taco-shop",
+    deploy: "https://quiet-beach-11732.herokuapp.com/",
   },
 ];
